@@ -7,8 +7,7 @@ Requirement:
   
 On board:
   Back-End:
-    1. Laravel Framework 8.18.1
-    
+    1. Laravel Framework 8.18.1  
   Front-End:
     1. Laravel blade templating (basic structure)
     2. Foundation Framework (theme assets, ...)
